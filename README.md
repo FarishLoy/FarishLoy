@@ -1,10 +1,6 @@
 ### Hi there 👋
-    I'm Farish, a web/mobile developer located in Malaysia. 
- - 🌱 I’m currently learning React and React-Native.
- - 📫 You can reach me on Twitter or through emails.
-    
-    
-    
+    I'm Farish 
+   
     
 
 <!--
